@@ -1,0 +1,17 @@
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\bin\Debug\net6.0\Практ 6.exe
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\bin\Debug\net6.0\Практ 6.deps.json
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\bin\Debug\net6.0\Практ 6.runtimeconfig.json
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\bin\Debug\net6.0\Практ 6.dll
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\bin\Debug\net6.0\Практ 6.pdb
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\obj\Debug\net6.0\Практ 6.csproj.AssemblyReference.cache
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\obj\Debug\net6.0\Практ 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\obj\Debug\net6.0\Практ 6.AssemblyInfoInputs.cache
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\obj\Debug\net6.0\Практ 6.AssemblyInfo.cs
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\obj\Debug\net6.0\Практ 6.csproj.CoreCompileInputs.cache
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\obj\Debug\net6.0\Практ 6.csproj.CopyComplete
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\obj\Debug\net6.0\Практ 6.dll
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\obj\Debug\net6.0\refint\Практ 6.dll
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\obj\Debug\net6.0\Практ 6.pdb
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\obj\Debug\net6.0\Практ 6.genruntimeconfig.cache
+C:\Users\X-AROK\source\repos\Практ 6\Практ 6\obj\Debug\net6.0\ref\Практ 6.dll
